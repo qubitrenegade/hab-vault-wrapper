@@ -1,5 +1,5 @@
 pkg_origin=qbrd
-pkg_name=vault
+pkg_name=vault-wrapper
 pkg_version=1.0.2
 pkg_description="A tool for managing secrets."
 pkg_maintainer='QubitRenegade qbrd@qubitrenegade.com'
